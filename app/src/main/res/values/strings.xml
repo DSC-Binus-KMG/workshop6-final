@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPrefAndRoom</string>
+
+    <string name="user_name">Theo</string>
+    <string name="user_password">Binus1234</string>
+
+    <string name="login_preferences">com.example.sharedprefandroom_login_preference</string>
+    <string name="login_status_preference">com.example.sharedprefandroom_login_status_preference</string>
+    <string name="login_name_preference">com.example.sharedprefandroom_login_name_preference</string>
+</resources>
